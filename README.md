@@ -4,4 +4,4 @@
 DSA Project With GUI by SFML Library
 
 
--> Setup The SFML Library
+-> Setup The SFML Library And Run The Code 
